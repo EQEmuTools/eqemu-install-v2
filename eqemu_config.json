@@ -30,13 +30,13 @@
         "port": "5998",
         "account": "",
         "password": "",
-        "host": "127.0.0.1"
+        "host": "worldserver.eqemulator.dev"
       },
       "loginserver3": {
         "port": "5998",
         "account": "",
         "password": "",
-        "host": "login.projecteq.net"
+        "host": "127.0.0.1"
       },
       "tcp": {
         "ip": "127.0.0.1",
